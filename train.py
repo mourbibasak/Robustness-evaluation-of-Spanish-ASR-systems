@@ -10,7 +10,7 @@ from omegaconf import OmegaConf, open_dict
 
 asr_model = nemo_asr.models.EncDecCTCModelBPE.from_pretrained(model_name="stt_es_conformer_ctc_large")
 
-TOKENIZER_DIR = "/home/mourb/nemo/train/tokenizer_spe_bpe_v1024"
+TOKENIZER_DIR = "./train/tokenizer_spe_bpe_v1024"
 asr_model.change_vocabulary(new_tokenizer_dir=TOKENIZER_DIR, new_tokenizer_type="bpe")
      
 ## Checking parameters of pretrained model
