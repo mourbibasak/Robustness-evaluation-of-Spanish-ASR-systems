@@ -1,0 +1,13 @@
+unk unk_B unk_E unk_I unk_S
+laughter laughter_B laughter_E laughter_I laughter_S
+noise noise_B noise_E noise_I noise_S
+oov oov_B oov_E oov_I oov_S
+&_B '_B -_B ._B /_B 0_B 1_B 2_B 3_B 4_B 5_B 6_B 9_B a_B b_B c_B d_B e_B f_B g_B h_B i_B j_B k_B l_B m_B n_B o_B p_B q_B r_B s_B t_B u_B v_B w_B x_B y_B z_B à_B á_B ç_B è_B é_B ì_B í_B ñ_B ó_B ú_B ü_B 
+&_E '_E -_E ._E /_E 0_E 1_E 2_E 3_E 4_E 5_E 6_E 9_E a_E b_E c_E d_E e_E f_E g_E h_E i_E j_E k_E l_E m_E n_E o_E p_E q_E r_E s_E t_E u_E v_E w_E x_E y_E z_E à_E á_E ç_E è_E é_E ì_E í_E ñ_E ó_E ú_E ü_E 
+&_I '_I -_I ._I /_I 0_I 1_I 2_I 3_I 4_I 5_I 6_I 9_I a_I b_I c_I d_I e_I f_I g_I h_I i_I j_I k_I l_I m_I n_I o_I p_I q_I r_I s_I t_I u_I v_I w_I x_I y_I z_I à_I á_I ç_I è_I é_I ì_I í_I ñ_I ó_I ú_I ü_I 
+&_S '_S -_S ._S /_S 0_S 1_S 2_S 3_S 4_S 5_S 6_S 9_S a_S b_S c_S d_S e_S f_S g_S h_S i_S j_S k_S l_S m_S n_S o_S p_S q_S r_S s_S t_S u_S v_S w_S x_S y_S z_S à_S á_S ç_S è_S é_S ì_S í_S ñ_S ó_S ú_S ü_S 
+sil unk laughter noise oov 
+sil_B unk_B laughter_B noise_B oov_B 
+sil_E unk_E laughter_E noise_E oov_E 
+sil_I unk_I laughter_I noise_I oov_I 
+sil_S unk_S laughter_S noise_S oov_S 

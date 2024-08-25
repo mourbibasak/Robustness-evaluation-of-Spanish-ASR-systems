@@ -1,0 +1,55 @@
+sil sil_B sil_E sil_I sil_S
+unk unk_B unk_E unk_I unk_S
+laughter laughter_B laughter_E laughter_I laughter_S
+noise noise_B noise_E noise_I noise_S
+oov oov_B oov_E oov_I oov_S
+&_B &_E &_I &_S
+'_B '_E '_I '_S
+-_B -_E -_I -_S
+._B ._E ._I ._S
+/_B /_E /_I /_S
+0_B 0_E 0_I 0_S
+1_B 1_E 1_I 1_S
+2_B 2_E 2_I 2_S
+3_B 3_E 3_I 3_S
+4_B 4_E 4_I 4_S
+5_B 5_E 5_I 5_S
+6_B 6_E 6_I 6_S
+9_B 9_E 9_I 9_S
+a_B a_E a_I a_S
+b_B b_E b_I b_S
+c_B c_E c_I c_S
+d_B d_E d_I d_S
+e_B e_E e_I e_S
+f_B f_E f_I f_S
+g_B g_E g_I g_S
+h_B h_E h_I h_S
+i_B i_E i_I i_S
+j_B j_E j_I j_S
+k_B k_E k_I k_S
+l_B l_E l_I l_S
+m_B m_E m_I m_S
+n_B n_E n_I n_S
+o_B o_E o_I o_S
+p_B p_E p_I p_S
+q_B q_E q_I q_S
+r_B r_E r_I r_S
+s_B s_E s_I s_S
+t_B t_E t_I t_S
+u_B u_E u_I u_S
+v_B v_E v_I v_S
+w_B w_E w_I w_S
+x_B x_E x_I x_S
+y_B y_E y_I y_S
+z_B z_E z_I z_S
+à_B à_E à_I à_S
+á_B á_E á_I á_S
+ç_B ç_E ç_I ç_S
+è_B è_E è_I è_S
+é_B é_E é_I é_S
+ì_B ì_E ì_I ì_S
+í_B í_E í_I í_S
+ñ_B ñ_E ñ_I ñ_S
+ó_B ó_E ó_I ó_S
+ú_B ú_E ú_I ú_S
+ü_B ü_E ü_I ü_S

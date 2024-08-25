@@ -1,0 +1,55 @@
+shared split sil sil_B sil_E sil_I sil_S
+shared split unk unk_B unk_E unk_I unk_S
+shared split laughter laughter_B laughter_E laughter_I laughter_S
+shared split noise noise_B noise_E noise_I noise_S
+shared split oov oov_B oov_E oov_I oov_S
+shared split &_B &_E &_I &_S
+shared split '_B '_E '_I '_S
+shared split -_B -_E -_I -_S
+shared split ._B ._E ._I ._S
+shared split /_B /_E /_I /_S
+shared split 0_B 0_E 0_I 0_S
+shared split 1_B 1_E 1_I 1_S
+shared split 2_B 2_E 2_I 2_S
+shared split 3_B 3_E 3_I 3_S
+shared split 4_B 4_E 4_I 4_S
+shared split 5_B 5_E 5_I 5_S
+shared split 6_B 6_E 6_I 6_S
+shared split 9_B 9_E 9_I 9_S
+shared split a_B a_E a_I a_S
+shared split b_B b_E b_I b_S
+shared split c_B c_E c_I c_S
+shared split d_B d_E d_I d_S
+shared split e_B e_E e_I e_S
+shared split f_B f_E f_I f_S
+shared split g_B g_E g_I g_S
+shared split h_B h_E h_I h_S
+shared split i_B i_E i_I i_S
+shared split j_B j_E j_I j_S
+shared split k_B k_E k_I k_S
+shared split l_B l_E l_I l_S
+shared split m_B m_E m_I m_S
+shared split n_B n_E n_I n_S
+shared split o_B o_E o_I o_S
+shared split p_B p_E p_I p_S
+shared split q_B q_E q_I q_S
+shared split r_B r_E r_I r_S
+shared split s_B s_E s_I s_S
+shared split t_B t_E t_I t_S
+shared split u_B u_E u_I u_S
+shared split v_B v_E v_I v_S
+shared split w_B w_E w_I w_S
+shared split x_B x_E x_I x_S
+shared split y_B y_E y_I y_S
+shared split z_B z_E z_I z_S
+shared split à_B à_E à_I à_S
+shared split á_B á_E á_I á_S
+shared split ç_B ç_E ç_I ç_S
+shared split è_B è_E è_I è_S
+shared split é_B é_E é_I é_S
+shared split ì_B ì_E ì_I ì_S
+shared split í_B í_E í_I í_S
+shared split ñ_B ñ_E ñ_I ñ_S
+shared split ó_B ó_E ó_I ó_S
+shared split ú_B ú_E ú_I ú_S
+shared split ü_B ü_E ü_I ü_S

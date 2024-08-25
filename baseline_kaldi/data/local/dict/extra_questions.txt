@@ -1,0 +1,4 @@
+unk
+laughter
+noise
+oov
