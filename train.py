@@ -80,7 +80,7 @@ asr_model.setup_validation_data(cfg.validation_ds)
 with open_dict(asr_model.cfg.optim):
     asr_model.cfg.optim.lr = 0.02
     asr_model.cfg.optim.weight_decay = 0.001
-    # asr_model.cfg.sched.name = 'CosineAnnealing'
+    asr_model.cfg.sched.name = 'NoamAnnealing'
     asr_model.cfg.optim.sched.warmup_steps = 20000  # Remove default number of steps of warmup
     asr_model.cfg.optim.sched.warmup_ratio = None  # 10 % warmup
     asr_model.cfg.optim.sched.min_lr = 1e-8
