@@ -51,7 +51,5 @@ def process_manifest(input_manifest_path, output_manifest_path):
             json.dump(entry, f, ensure_ascii=False)
             f.write('\n')
 
-# Example usage:
-input_manifest_path = "test/outofdomain_manifest.json"
-output_manifest_path = "/home/mourb/nemo/test/exp4_manifest.json"
+
 process_manifest(input_manifest_path, output_manifest_path)
